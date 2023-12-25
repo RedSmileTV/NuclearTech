@@ -1,0 +1,16 @@
+{
+  "_comment": "Items",
+
+  "item.nucleartech.uranium_ingot": "Uranium Ingot",
+
+
+  "_comment": "Blocks",
+
+  "block.nucleartech.uranium_ore": "Uranium Ore",
+
+
+  "_comment": "CreativeTabs",
+
+  "itemGroup.nucleartech": "NuclearTech"
+
+}
